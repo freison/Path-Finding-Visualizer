@@ -11,7 +11,11 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+<<<<<<< HEAD
 // Test proyecto.
+=======
+// Test freison
+>>>>>>> f0a4dbc8d0b1522ab34bd47885863ec35d8b25f4
 // Test comment by ...
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
