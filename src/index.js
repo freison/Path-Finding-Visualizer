@@ -11,6 +11,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+// Test Freison 2.
 // Test freison
 // Test comment by ...
 // If you want your app to work offline and load faster, you can change
